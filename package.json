@@ -1,0 +1,6 @@
+{
+  "name": "next-on-demand-unstable-cache-bailout-repro",
+  "private": true,
+  "scripts": { "build": "next build", "start": "next start" },
+  "dependencies": { "next": "16.4.0", "react": "19.2.0", "react-dom": "19.2.0" }
+}
